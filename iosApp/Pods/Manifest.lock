@@ -1,0 +1,29 @@
+PODS:
+  - SDWebImage (5.13.5):
+    - SDWebImage/Core (= 5.13.5)
+  - SDWebImage/Core (5.13.5)
+  - SDWebImageSwiftUI (2.2.1):
+    - SDWebImage (~> 5.10)
+  - shared (1.0)
+
+DEPENDENCIES:
+  - SDWebImageSwiftUI
+  - shared (from `../shared`)
+
+SPEC REPOS:
+  trunk:
+    - SDWebImage
+    - SDWebImageSwiftUI
+
+EXTERNAL SOURCES:
+  shared:
+    :path: "../shared"
+
+SPEC CHECKSUMS:
+  SDWebImage: 23d714cd599354ee7906dbae26dff89b421c4370
+  SDWebImageSwiftUI: 2ecf5ab6f574526326b10ecb155e72a88059d0f0
+  shared: 07cac7993e4f05eda6b76f3a213b070947c3b79f
+
+PODFILE CHECKSUM: c51c5a796cecb56b41b6a7c2856ddd3f7bb8a40b
+
+COCOAPODS: 1.11.3

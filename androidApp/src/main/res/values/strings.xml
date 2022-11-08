@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rick And Morty</string>
+    <string name="status">Status:</string>
+
+    <string name="search_label">Search…</string>
+    <string name="search_icon">search_icon</string>
+
+    <string name="character_name_placeholder">Rick Sanchez</string>
+    <string name="character_status_placeholder">Status: Alive</string>
+
+    <string name="appearance_label">Appearance</string>
+    <string name="info_label">Info</string>
+    <string name="status_label">Status</string>
+    <string name="species_label">Species</string>
+    <string name="gender_label">Gender</string>
+    <string name="origin_label">Origin</string>
+    <string name="location_label">Location</string>
+    <string name="episodes_label">Episodes</string>
+</resources>
